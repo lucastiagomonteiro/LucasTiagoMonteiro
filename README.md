@@ -4,14 +4,14 @@
 
 Me chamo Lucas Tiago Monteiro, tenho 20 anos e sou natural do Espirito Santo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Nome do canal](https://www.youtube.com/)", Onde mostro eu criando projetos com uma forma de humor".
 
-### Best technologies
+### 🚀Best technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>         
 </div>
 
-### My Stats
+### 📉My Stats
 
 <div>
   <a href="https://github.com/nesantana">
@@ -20,7 +20,7 @@ Me chamo Lucas Tiago Monteiro, tenho 20 anos e sou natural do Espirito Santo. At
   </a>
 </div>
 
-### Contacts
+### 📱Contacts
 
 <div>
   <a href="https://www.instagram.com/lucassss__t?igsh=dGZxbHZxN2xidnE0">
@@ -34,4 +34,4 @@ Me chamo Lucas Tiago Monteiro, tenho 20 anos e sou natural do Espirito Santo. At
   </a>
 </div>
 
-###
+### Video
