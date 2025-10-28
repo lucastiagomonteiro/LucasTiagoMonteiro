@@ -23,13 +23,13 @@ Me chamo Lucas Tiago Monteiro, tenho 20 anos e sou natural do Espirito Santo. At
 ### Contacts
 
 <div>
-  <a href="https://instragram.com/....">
+  <a href="https://www.instagram.com/lucassss__t?igsh=dGZxbHZxN2xidnE0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/...">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/...">
+  <a href="https://www.linkedin.com/in/lucas-tiago-monteiro-85908524b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
